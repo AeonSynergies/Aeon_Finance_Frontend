@@ -1,0 +1,488 @@
+[
+ {
+  "id": "job_007u",
+  "jobId": "TC-2026-W39",
+  "module": "TIMECARD",
+  "frequency": "WEEKLY",
+  "periodStart": "2026-09-21T00:00:00.000Z",
+  "periodEnd": "2026-09-27T00:00:00.000Z",
+  "processDate": "2026-09-29T00:00:00.000Z",
+  "status": "INPROGRESS",
+  "createdBy": "u_payroll",
+  "createdAt": "2026-09-21T09:00:00.000Z",
+  "updatedAt": "2026-09-23T20:00:00.000Z",
+  "user": {
+   "id": "u_payroll",
+   "name": "Payroll Executive",
+   "email": "payroll@aeonfinance.com"
+  }
+ },
+ {
+  "id": "job_00an",
+  "jobId": "RR-2026-W39",
+  "module": "ROUTE_REVENUE",
+  "frequency": "WEEKLY",
+  "periodStart": "2026-09-21T00:00:00.000Z",
+  "periodEnd": "2026-09-27T00:00:00.000Z",
+  "processDate": "2026-09-29T00:00:00.000Z",
+  "status": "INPROGRESS",
+  "createdBy": "u_routes",
+  "createdAt": "2026-09-21T09:00:00.000Z",
+  "updatedAt": "2026-09-23T20:00:00.000Z",
+  "user": {
+   "id": "u_routes",
+   "name": "Routes Executive",
+   "email": "routes@aeonfinance.com"
+  }
+ },
+ {
+  "id": "job_00bs",
+  "jobId": "RI-2026-W39",
+  "module": "ROUTE_INVOICE",
+  "frequency": "WEEKLY",
+  "periodStart": "2026-09-21T00:00:00.000Z",
+  "periodEnd": "2026-09-27T00:00:00.000Z",
+  "processDate": "2026-09-29T00:00:00.000Z",
+  "status": "INPROGRESS",
+  "createdBy": "u_routes",
+  "createdAt": "2026-09-21T09:00:00.000Z",
+  "updatedAt": "2026-09-23T20:00:00.000Z",
+  "user": {
+   "id": "u_routes",
+   "name": "Routes Executive",
+   "email": "routes@aeonfinance.com"
+  }
+ },
+ {
+  "id": "job_00da",
+  "jobId": "FA-2026-W39",
+  "module": "RFS_AFS",
+  "frequency": "WEEKLY",
+  "periodStart": "2026-09-21T00:00:00.000Z",
+  "periodEnd": "2026-09-27T00:00:00.000Z",
+  "processDate": "2026-09-29T00:00:00.000Z",
+  "status": "INPROGRESS",
+  "createdBy": "u_fleet",
+  "createdAt": "2026-09-21T09:00:00.000Z",
+  "updatedAt": "2026-09-23T20:00:00.000Z",
+  "user": {
+   "id": "u_fleet",
+   "name": "Fleet Executive",
+   "email": "fleet@aeonfinance.com"
+  }
+ },
+ {
+  "id": "job_00el",
+  "jobId": "FR-2026-W39",
+  "module": "FLEET_REVENUE",
+  "frequency": "WEEKLY",
+  "periodStart": "2026-09-21T00:00:00.000Z",
+  "periodEnd": "2026-09-27T00:00:00.000Z",
+  "processDate": "2026-09-29T00:00:00.000Z",
+  "status": "INPROGRESS",
+  "createdBy": "u_fleet",
+  "createdAt": "2026-09-21T09:00:00.000Z",
+  "updatedAt": "2026-09-23T20:00:00.000Z",
+  "user": {
+   "id": "u_fleet",
+   "name": "Fleet Executive",
+   "email": "fleet@aeonfinance.com"
+  }
+ },
+ {
+  "id": "job_00fz",
+  "jobId": "RN-2026-W39",
+  "module": "RENTAL",
+  "frequency": "WEEKLY",
+  "periodStart": "2026-09-21T00:00:00.000Z",
+  "periodEnd": "2026-09-27T00:00:00.000Z",
+  "processDate": "2026-09-29T00:00:00.000Z",
+  "status": "DRAFT",
+  "createdBy": "u_fleet",
+  "createdAt": "2026-09-21T09:00:00.000Z",
+  "updatedAt": "2026-09-21T09:00:00.000Z",
+  "user": {
+   "id": "u_fleet",
+   "name": "Fleet Executive",
+   "email": "fleet@aeonfinance.com"
+  }
+ },
+ {
+  "id": "job_00gs",
+  "jobId": "RM-2026-W39",
+  "module": "REPAIR_MAINTENANCE",
+  "frequency": "WEEKLY",
+  "periodStart": "2026-09-21T00:00:00.000Z",
+  "periodEnd": "2026-09-27T00:00:00.000Z",
+  "processDate": "2026-09-29T00:00:00.000Z",
+  "status": "INPROGRESS",
+  "createdBy": "u_admin",
+  "createdAt": "2026-09-21T09:00:00.000Z",
+  "updatedAt": "2026-09-23T20:00:00.000Z",
+  "user": {
+   "id": "u_admin",
+   "name": "Admin User",
+   "email": "admin@aeonfinance.com"
+  }
+ },
+ {
+  "id": "job_00i6",
+  "jobId": "IN-2026-W39",
+  "module": "INSURANCE",
+  "frequency": "WEEKLY",
+  "periodStart": "2026-09-21T00:00:00.000Z",
+  "periodEnd": "2026-09-27T00:00:00.000Z",
+  "processDate": "2026-09-29T00:00:00.000Z",
+  "status": "INPROGRESS",
+  "createdBy": "u_fleet",
+  "createdAt": "2026-09-21T09:00:00.000Z",
+  "updatedAt": "2026-09-23T20:00:00.000Z",
+  "user": {
+   "id": "u_fleet",
+   "name": "Fleet Executive",
+   "email": "fleet@aeonfinance.com"
+  }
+ },
+ {
+  "id": "job_005a",
+  "jobId": "TC-2026-W38",
+  "module": "TIMECARD",
+  "frequency": "WEEKLY",
+  "periodStart": "2026-09-14T00:00:00.000Z",
+  "periodEnd": "2026-09-20T00:00:00.000Z",
+  "processDate": "2026-09-22T00:00:00.000Z",
+  "status": "SENT_FOR_APPROVAL",
+  "createdBy": "u_payroll",
+  "createdAt": "2026-09-14T09:00:00.000Z",
+  "updatedAt": "2026-09-22T15:00:00.000Z",
+  "user": {
+   "id": "u_payroll",
+   "name": "Payroll Executive",
+   "email": "payroll@aeonfinance.com"
+  }
+ },
+ {
+  "id": "job_00a9",
+  "jobId": "RR-2026-W38",
+  "module": "ROUTE_REVENUE",
+  "frequency": "WEEKLY",
+  "periodStart": "2026-09-14T00:00:00.000Z",
+  "periodEnd": "2026-09-20T00:00:00.000Z",
+  "processDate": "2026-09-22T00:00:00.000Z",
+  "status": "SENT_FOR_APPROVAL",
+  "createdBy": "u_routes",
+  "createdAt": "2026-09-14T09:00:00.000Z",
+  "updatedAt": "2026-09-22T15:00:00.000Z",
+  "user": {
+   "id": "u_routes",
+   "name": "Routes Executive",
+   "email": "routes@aeonfinance.com"
+  }
+ },
+ {
+  "id": "job_00bf",
+  "jobId": "RI-2026-W38",
+  "module": "ROUTE_INVOICE",
+  "frequency": "WEEKLY",
+  "periodStart": "2026-09-14T00:00:00.000Z",
+  "periodEnd": "2026-09-20T00:00:00.000Z",
+  "processDate": "2026-09-22T00:00:00.000Z",
+  "status": "SENT_FOR_APPROVAL",
+  "createdBy": "u_routes",
+  "createdAt": "2026-09-14T09:00:00.000Z",
+  "updatedAt": "2026-09-22T15:00:00.000Z",
+  "user": {
+   "id": "u_routes",
+   "name": "Routes Executive",
+   "email": "routes@aeonfinance.com"
+  }
+ },
+ {
+  "id": "job_00cq",
+  "jobId": "FA-2026-W38",
+  "module": "RFS_AFS",
+  "frequency": "WEEKLY",
+  "periodStart": "2026-09-14T00:00:00.000Z",
+  "periodEnd": "2026-09-20T00:00:00.000Z",
+  "processDate": "2026-09-22T00:00:00.000Z",
+  "status": "SENT_FOR_APPROVAL",
+  "createdBy": "u_fleet",
+  "createdAt": "2026-09-14T09:00:00.000Z",
+  "updatedAt": "2026-09-22T15:00:00.000Z",
+  "user": {
+   "id": "u_fleet",
+   "name": "Fleet Executive",
+   "email": "fleet@aeonfinance.com"
+  }
+ },
+ {
+  "id": "job_00e8",
+  "jobId": "FR-2026-W38",
+  "module": "FLEET_REVENUE",
+  "frequency": "WEEKLY",
+  "periodStart": "2026-09-14T00:00:00.000Z",
+  "periodEnd": "2026-09-20T00:00:00.000Z",
+  "processDate": "2026-09-22T00:00:00.000Z",
+  "status": "SENT_FOR_APPROVAL",
+  "createdBy": "u_fleet",
+  "createdAt": "2026-09-14T09:00:00.000Z",
+  "updatedAt": "2026-09-22T15:00:00.000Z",
+  "user": {
+   "id": "u_fleet",
+   "name": "Fleet Executive",
+   "email": "fleet@aeonfinance.com"
+  }
+ },
+ {
+  "id": "job_00fo",
+  "jobId": "RN-2026-W38",
+  "module": "RENTAL",
+  "frequency": "WEEKLY",
+  "periodStart": "2026-09-14T00:00:00.000Z",
+  "periodEnd": "2026-09-20T00:00:00.000Z",
+  "processDate": "2026-09-22T00:00:00.000Z",
+  "status": "SENT_FOR_APPROVAL",
+  "createdBy": "u_fleet",
+  "createdAt": "2026-09-14T09:00:00.000Z",
+  "updatedAt": "2026-09-22T15:00:00.000Z",
+  "user": {
+   "id": "u_fleet",
+   "name": "Fleet Executive",
+   "email": "fleet@aeonfinance.com"
+  }
+ },
+ {
+  "id": "job_00gh",
+  "jobId": "RM-2026-W38",
+  "module": "REPAIR_MAINTENANCE",
+  "frequency": "WEEKLY",
+  "periodStart": "2026-09-14T00:00:00.000Z",
+  "periodEnd": "2026-09-20T00:00:00.000Z",
+  "processDate": "2026-09-22T00:00:00.000Z",
+  "status": "SENT_FOR_APPROVAL",
+  "createdBy": "u_admin",
+  "createdAt": "2026-09-14T09:00:00.000Z",
+  "updatedAt": "2026-09-22T15:00:00.000Z",
+  "user": {
+   "id": "u_admin",
+   "name": "Admin User",
+   "email": "admin@aeonfinance.com"
+  }
+ },
+ {
+  "id": "job_00hn",
+  "jobId": "IN-2026-W38",
+  "module": "INSURANCE",
+  "frequency": "WEEKLY",
+  "periodStart": "2026-09-14T00:00:00.000Z",
+  "periodEnd": "2026-09-20T00:00:00.000Z",
+  "processDate": "2026-09-22T00:00:00.000Z",
+  "status": "SENT_FOR_APPROVAL",
+  "createdBy": "u_fleet",
+  "createdAt": "2026-09-14T09:00:00.000Z",
+  "updatedAt": "2026-09-22T15:00:00.000Z",
+  "user": {
+   "id": "u_fleet",
+   "name": "Fleet Executive",
+   "email": "fleet@aeonfinance.com"
+  }
+ },
+ {
+  "id": "job_002o",
+  "jobId": "TC-2026-W37",
+  "module": "TIMECARD",
+  "frequency": "WEEKLY",
+  "periodStart": "2026-09-07T00:00:00.000Z",
+  "periodEnd": "2026-09-13T00:00:00.000Z",
+  "processDate": "2026-09-15T00:00:00.000Z",
+  "status": "APPROVED",
+  "createdBy": "u_payroll",
+  "createdAt": "2026-09-07T09:00:00.000Z",
+  "updatedAt": "2026-09-16T11:00:00.000Z",
+  "user": {
+   "id": "u_payroll",
+   "name": "Payroll Executive",
+   "email": "payroll@aeonfinance.com"
+  }
+ },
+ {
+  "id": "job_009t",
+  "jobId": "RR-2026-W37",
+  "module": "ROUTE_REVENUE",
+  "frequency": "WEEKLY",
+  "periodStart": "2026-09-07T00:00:00.000Z",
+  "periodEnd": "2026-09-13T00:00:00.000Z",
+  "processDate": "2026-09-15T00:00:00.000Z",
+  "status": "APPROVED",
+  "createdBy": "u_routes",
+  "createdAt": "2026-09-07T09:00:00.000Z",
+  "updatedAt": "2026-09-16T11:00:00.000Z",
+  "user": {
+   "id": "u_routes",
+   "name": "Routes Executive",
+   "email": "routes@aeonfinance.com"
+  }
+ },
+ {
+  "id": "job_00b0",
+  "jobId": "RI-2026-W37",
+  "module": "ROUTE_INVOICE",
+  "frequency": "WEEKLY",
+  "periodStart": "2026-09-07T00:00:00.000Z",
+  "periodEnd": "2026-09-13T00:00:00.000Z",
+  "processDate": "2026-09-15T00:00:00.000Z",
+  "status": "APPROVED",
+  "createdBy": "u_routes",
+  "createdAt": "2026-09-07T09:00:00.000Z",
+  "updatedAt": "2026-09-16T11:00:00.000Z",
+  "user": {
+   "id": "u_routes",
+   "name": "Routes Executive",
+   "email": "routes@aeonfinance.com"
+  }
+ },
+ {
+  "id": "job_00c4",
+  "jobId": "FA-2026-W37",
+  "module": "RFS_AFS",
+  "frequency": "WEEKLY",
+  "periodStart": "2026-09-07T00:00:00.000Z",
+  "periodEnd": "2026-09-13T00:00:00.000Z",
+  "processDate": "2026-09-15T00:00:00.000Z",
+  "status": "APPROVED",
+  "createdBy": "u_fleet",
+  "createdAt": "2026-09-07T09:00:00.000Z",
+  "updatedAt": "2026-09-16T11:00:00.000Z",
+  "user": {
+   "id": "u_fleet",
+   "name": "Fleet Executive",
+   "email": "fleet@aeonfinance.com"
+  }
+ },
+ {
+  "id": "job_00dt",
+  "jobId": "FR-2026-W37",
+  "module": "FLEET_REVENUE",
+  "frequency": "WEEKLY",
+  "periodStart": "2026-09-07T00:00:00.000Z",
+  "periodEnd": "2026-09-13T00:00:00.000Z",
+  "processDate": "2026-09-15T00:00:00.000Z",
+  "status": "APPROVED",
+  "createdBy": "u_fleet",
+  "createdAt": "2026-09-07T09:00:00.000Z",
+  "updatedAt": "2026-09-16T11:00:00.000Z",
+  "user": {
+   "id": "u_fleet",
+   "name": "Fleet Executive",
+   "email": "fleet@aeonfinance.com"
+  }
+ },
+ {
+  "id": "job_00fb",
+  "jobId": "RN-2026-W37",
+  "module": "RENTAL",
+  "frequency": "WEEKLY",
+  "periodStart": "2026-09-07T00:00:00.000Z",
+  "periodEnd": "2026-09-13T00:00:00.000Z",
+  "processDate": "2026-09-15T00:00:00.000Z",
+  "status": "APPROVED",
+  "createdBy": "u_fleet",
+  "createdAt": "2026-09-07T09:00:00.000Z",
+  "updatedAt": "2026-09-16T11:00:00.000Z",
+  "user": {
+   "id": "u_fleet",
+   "name": "Fleet Executive",
+   "email": "fleet@aeonfinance.com"
+  }
+ },
+ {
+  "id": "job_00g4",
+  "jobId": "RM-2026-W37",
+  "module": "REPAIR_MAINTENANCE",
+  "frequency": "WEEKLY",
+  "periodStart": "2026-09-07T00:00:00.000Z",
+  "periodEnd": "2026-09-13T00:00:00.000Z",
+  "processDate": "2026-09-15T00:00:00.000Z",
+  "status": "APPROVED",
+  "createdBy": "u_admin",
+  "createdAt": "2026-09-07T09:00:00.000Z",
+  "updatedAt": "2026-09-16T11:00:00.000Z",
+  "user": {
+   "id": "u_admin",
+   "name": "Admin User",
+   "email": "admin@aeonfinance.com"
+  }
+ },
+ {
+  "id": "job_00h2",
+  "jobId": "IN-2026-W37",
+  "module": "INSURANCE",
+  "frequency": "WEEKLY",
+  "periodStart": "2026-09-07T00:00:00.000Z",
+  "periodEnd": "2026-09-13T00:00:00.000Z",
+  "processDate": "2026-09-15T00:00:00.000Z",
+  "status": "APPROVED",
+  "createdBy": "u_fleet",
+  "createdAt": "2026-09-07T09:00:00.000Z",
+  "updatedAt": "2026-09-16T11:00:00.000Z",
+  "user": {
+   "id": "u_fleet",
+   "name": "Fleet Executive",
+   "email": "fleet@aeonfinance.com"
+  }
+ },
+ {
+  "id": "job_0001",
+  "jobId": "TC-2026-W36",
+  "module": "TIMECARD",
+  "frequency": "WEEKLY",
+  "periodStart": "2026-08-31T00:00:00.000Z",
+  "periodEnd": "2026-09-06T00:00:00.000Z",
+  "processDate": "2026-09-08T00:00:00.000Z",
+  "status": "LOCKED",
+  "createdBy": "u_payroll",
+  "createdAt": "2026-08-31T09:00:00.000Z",
+  "updatedAt": "2026-09-11T16:00:00.000Z",
+  "user": {
+   "id": "u_payroll",
+   "name": "Payroll Executive",
+   "email": "payroll@aeonfinance.com"
+  }
+ },
+ {
+  "id": "job_009c",
+  "jobId": "RR-2026-W36",
+  "module": "ROUTE_REVENUE",
+  "frequency": "WEEKLY",
+  "periodStart": "2026-08-31T00:00:00.000Z",
+  "periodEnd": "2026-09-06T00:00:00.000Z",
+  "processDate": "2026-09-08T00:00:00.000Z",
+  "status": "LOCKED",
+  "createdBy": "u_routes",
+  "createdAt": "2026-08-31T09:00:00.000Z",
+  "updatedAt": "2026-09-11T16:00:00.000Z",
+  "user": {
+   "id": "u_routes",
+   "name": "Routes Executive",
+   "email": "routes@aeonfinance.com"
+  }
+ },
+ {
+  "id": "job_00ex",
+  "jobId": "RN-2026-W36",
+  "module": "RENTAL",
+  "frequency": "WEEKLY",
+  "periodStart": "2026-08-31T00:00:00.000Z",
+  "periodEnd": "2026-09-06T00:00:00.000Z",
+  "processDate": "2026-09-08T00:00:00.000Z",
+  "status": "LOCKED",
+  "createdBy": "u_fleet",
+  "createdAt": "2026-08-31T09:00:00.000Z",
+  "updatedAt": "2026-09-11T16:00:00.000Z",
+  "user": {
+   "id": "u_fleet",
+   "name": "Fleet Executive",
+   "email": "fleet@aeonfinance.com"
+  }
+ }
+]

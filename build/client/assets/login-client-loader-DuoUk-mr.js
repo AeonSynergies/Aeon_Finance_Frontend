@@ -1,0 +1,1 @@
+import{E as e}from"./utils-BpIe-t7-.js";import{n as t}from"./auth-C8Tw52db.js";function n(){return t.getState().token?e(`/dashboard`):null}export{n as clientLoader};

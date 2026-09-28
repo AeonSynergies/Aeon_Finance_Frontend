@@ -1,0 +1,191 @@
+[
+ {
+  "date": "2026-09-15",
+  "type": "deadline",
+  "label": "Payroll deadline — TC-2026-W37",
+  "jobId": "TC-2026-W37",
+  "module": "TIMECARD"
+ },
+ {
+  "date": "2026-09-22",
+  "type": "deadline",
+  "label": "Payroll deadline — TC-2026-W38",
+  "jobId": "TC-2026-W38",
+  "module": "TIMECARD"
+ },
+ {
+  "date": "2026-09-29",
+  "type": "deadline",
+  "label": "Payroll deadline — TC-2026-W39",
+  "jobId": "TC-2026-W39",
+  "module": "TIMECARD"
+ },
+ {
+  "date": "2026-09-15",
+  "type": "dispute",
+  "label": "WST dispute window closes — RR-2026-W37",
+  "jobId": "RR-2026-W37",
+  "module": "ROUTE_REVENUE"
+ },
+ {
+  "date": "2026-09-22",
+  "type": "dispute",
+  "label": "WST dispute window closes — RR-2026-W38",
+  "jobId": "RR-2026-W38",
+  "module": "ROUTE_REVENUE"
+ },
+ {
+  "date": "2026-09-29",
+  "type": "dispute",
+  "label": "WST dispute window closes — RR-2026-W39",
+  "jobId": "RR-2026-W39",
+  "module": "ROUTE_REVENUE"
+ },
+ {
+  "date": "2026-09-15",
+  "type": "invoice",
+  "label": "Invoice due — RI-2026-W37",
+  "jobId": "RI-2026-W37",
+  "module": "ROUTE_INVOICE"
+ },
+ {
+  "date": "2026-09-27",
+  "type": "dispute",
+  "label": "Invoice dispute window closes — RI-2026-W37",
+  "jobId": "RI-2026-W37",
+  "module": "ROUTE_INVOICE"
+ },
+ {
+  "date": "2026-09-22",
+  "type": "invoice",
+  "label": "Invoice due — RI-2026-W38",
+  "jobId": "RI-2026-W38",
+  "module": "ROUTE_INVOICE"
+ },
+ {
+  "date": "2026-10-04",
+  "type": "dispute",
+  "label": "Invoice dispute window closes — RI-2026-W38",
+  "jobId": "RI-2026-W38",
+  "module": "ROUTE_INVOICE"
+ },
+ {
+  "date": "2026-09-29",
+  "type": "invoice",
+  "label": "Invoice due — RI-2026-W39",
+  "jobId": "RI-2026-W39",
+  "module": "ROUTE_INVOICE"
+ },
+ {
+  "date": "2026-10-11",
+  "type": "dispute",
+  "label": "Invoice dispute window closes — RI-2026-W39",
+  "jobId": "RI-2026-W39",
+  "module": "ROUTE_INVOICE"
+ },
+ {
+  "date": "2026-09-15",
+  "type": "deadline",
+  "label": "Process date — FA-2026-W37",
+  "jobId": "FA-2026-W37",
+  "module": "RFS_AFS"
+ },
+ {
+  "date": "2026-09-22",
+  "type": "deadline",
+  "label": "Process date — FA-2026-W38",
+  "jobId": "FA-2026-W38",
+  "module": "RFS_AFS"
+ },
+ {
+  "date": "2026-09-29",
+  "type": "deadline",
+  "label": "Process date — FA-2026-W39",
+  "jobId": "FA-2026-W39",
+  "module": "RFS_AFS"
+ },
+ {
+  "date": "2026-09-15",
+  "type": "deadline",
+  "label": "Process date — FR-2026-W37",
+  "jobId": "FR-2026-W37",
+  "module": "FLEET_REVENUE"
+ },
+ {
+  "date": "2026-09-22",
+  "type": "deadline",
+  "label": "Process date — FR-2026-W38",
+  "jobId": "FR-2026-W38",
+  "module": "FLEET_REVENUE"
+ },
+ {
+  "date": "2026-09-29",
+  "type": "deadline",
+  "label": "Process date — FR-2026-W39",
+  "jobId": "FR-2026-W39",
+  "module": "FLEET_REVENUE"
+ },
+ {
+  "date": "2026-09-15",
+  "type": "deadline",
+  "label": "Process date — RN-2026-W37",
+  "jobId": "RN-2026-W37",
+  "module": "RENTAL"
+ },
+ {
+  "date": "2026-09-22",
+  "type": "deadline",
+  "label": "Process date — RN-2026-W38",
+  "jobId": "RN-2026-W38",
+  "module": "RENTAL"
+ },
+ {
+  "date": "2026-09-29",
+  "type": "deadline",
+  "label": "Process date — RN-2026-W39",
+  "jobId": "RN-2026-W39",
+  "module": "RENTAL"
+ },
+ {
+  "date": "2026-09-15",
+  "type": "deadline",
+  "label": "Process date — RM-2026-W37",
+  "jobId": "RM-2026-W37",
+  "module": "REPAIR_MAINTENANCE"
+ },
+ {
+  "date": "2026-09-22",
+  "type": "deadline",
+  "label": "Process date — RM-2026-W38",
+  "jobId": "RM-2026-W38",
+  "module": "REPAIR_MAINTENANCE"
+ },
+ {
+  "date": "2026-09-29",
+  "type": "deadline",
+  "label": "Process date — RM-2026-W39",
+  "jobId": "RM-2026-W39",
+  "module": "REPAIR_MAINTENANCE"
+ },
+ {
+  "date": "2026-09-15",
+  "type": "deadline",
+  "label": "Process date — IN-2026-W37",
+  "jobId": "IN-2026-W37",
+  "module": "INSURANCE"
+ },
+ {
+  "date": "2026-09-22",
+  "type": "deadline",
+  "label": "Process date — IN-2026-W38",
+  "jobId": "IN-2026-W38",
+  "module": "INSURANCE"
+ },
+ {
+  "date": "2026-09-29",
+  "type": "deadline",
+  "label": "Process date — IN-2026-W39",
+  "jobId": "IN-2026-W39",
+  "module": "INSURANCE"
+ }
+]

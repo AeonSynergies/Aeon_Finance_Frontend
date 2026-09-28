@@ -1,0 +1,1 @@
+import{E as e}from"./utils-BpIe-t7-.js";var t=()=>e(`/dashboard`);export{t as clientLoader};

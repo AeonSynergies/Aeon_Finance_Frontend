@@ -1,0 +1,14 @@
+{
+ "loginBuffer": 5,
+ "logoutBuffer": 15,
+ "breakBuffer": 2,
+ "dailyOtThreshold": 10,
+ "weeklyOtThreshold": 40,
+ "maxConsecutiveDays": 6,
+ "minRestPeriod": 10,
+ "wstDisputeWindow": 48,
+ "invoiceDisputeWindow": 14,
+ "supportMaxHours": 4,
+ "stationName": "",
+ "dspName": ""
+}

@@ -1,0 +1,244 @@
+{
+ "job_007u": {
+  "job": {
+   "id": "job_007u",
+   "jobId": "TC-2026-W39",
+   "status": "INPROGRESS",
+   "periodStart": "2026-09-21T00:00:00.000Z",
+   "periodEnd": "2026-09-27T00:00:00.000Z"
+  },
+  "hasData": true,
+  "hours": {
+   "totalGrossHours": 252.48,
+   "totalOtHours": 0,
+   "totalDayOtCount": 0,
+   "weekOtDriverCount": 0,
+   "topOtDrivers": [],
+   "driverCount": 13
+  },
+  "cap": {
+   "dayCapViolations": 0,
+   "totalCapViolations": 0,
+   "complianceScore": 100,
+   "topCapDrivers": []
+  },
+  "payroll": {
+   "grossPay": 4670.93,
+   "employerTax": 434.4,
+   "workerComp": 264.37,
+   "employeeInsurance": 585,
+   "employee401k": 58.39,
+   "totalLiability": 6013.09
+  },
+  "revenue": {
+   "routeRevenue": 39011,
+   "routeJobId": "RR-2026-W39",
+   "isActual": true
+  },
+  "profitLoss": 32997.91
+ },
+ "job_005a": {
+  "job": {
+   "id": "job_005a",
+   "jobId": "TC-2026-W38",
+   "status": "SENT_FOR_APPROVAL",
+   "periodStart": "2026-09-14T00:00:00.000Z",
+   "periodEnd": "2026-09-20T00:00:00.000Z"
+  },
+  "hasData": true,
+  "hours": {
+   "totalGrossHours": 578.65,
+   "totalOtHours": 0.04,
+   "totalDayOtCount": 1,
+   "weekOtDriverCount": 1,
+   "topOtDrivers": [
+    {
+     "employeeName": "Hannah Kim",
+     "fileNumber": "EMP-006",
+     "position": "DA",
+     "otHours": 0.04
+    }
+   ],
+   "driverCount": 13
+  },
+  "cap": {
+   "dayCapViolations": 1,
+   "totalCapViolations": 1,
+   "complianceScore": 98.46,
+   "topCapDrivers": [
+    {
+     "employeeName": "Hannah Kim",
+     "fileNumber": "EMP-006",
+     "position": "DA",
+     "capCount": 1
+    }
+   ]
+  },
+  "payroll": {
+   "grossPay": 10705.54,
+   "employerTax": 995.62,
+   "workerComp": 605.93,
+   "employeeInsurance": 585,
+   "employee401k": 133.82,
+   "totalLiability": 13025.91
+  },
+  "revenue": {
+   "routeRevenue": 38247,
+   "routeJobId": "RR-2026-W38",
+   "isActual": true
+  },
+  "profitLoss": 25221.09
+ },
+ "job_002o": {
+  "job": {
+   "id": "job_002o",
+   "jobId": "TC-2026-W37",
+   "status": "APPROVED",
+   "periodStart": "2026-09-07T00:00:00.000Z",
+   "periodEnd": "2026-09-13T00:00:00.000Z"
+  },
+  "hasData": true,
+  "hours": {
+   "totalGrossHours": 581.79,
+   "totalOtHours": 1.69,
+   "totalDayOtCount": 3,
+   "weekOtDriverCount": 3,
+   "topOtDrivers": [
+    {
+     "employeeName": "Aisha Brown",
+     "fileNumber": "EMP-004",
+     "position": "DA LEAD",
+     "otHours": 0.6
+    },
+    {
+     "employeeName": "Priya Nair",
+     "fileNumber": "EMP-010",
+     "position": "DA LEAD",
+     "otHours": 0.57
+    },
+    {
+     "employeeName": "Marcus Johnson",
+     "fileNumber": "EMP-001",
+     "position": "DA",
+     "otHours": 0.52
+    }
+   ],
+   "driverCount": 13
+  },
+  "cap": {
+   "dayCapViolations": 3,
+   "totalCapViolations": 3,
+   "complianceScore": 95.38,
+   "topCapDrivers": [
+    {
+     "employeeName": "Aisha Brown",
+     "fileNumber": "EMP-004",
+     "position": "DA LEAD",
+     "capCount": 1
+    },
+    {
+     "employeeName": "Marcus Johnson",
+     "fileNumber": "EMP-001",
+     "position": "DA",
+     "capCount": 1
+    },
+    {
+     "employeeName": "Priya Nair",
+     "fileNumber": "EMP-010",
+     "position": "DA LEAD",
+     "capCount": 1
+    }
+   ]
+  },
+  "payroll": {
+   "grossPay": 10778.9,
+   "employerTax": 1002.44,
+   "workerComp": 610.09,
+   "employeeInsurance": 585,
+   "employee401k": 134.74,
+   "totalLiability": 13111.17
+  },
+  "revenue": {
+   "routeRevenue": 40845,
+   "routeJobId": "RR-2026-W37",
+   "isActual": true
+  },
+  "profitLoss": 27733.83
+ },
+ "job_0001": {
+  "job": {
+   "id": "job_0001",
+   "jobId": "TC-2026-W36",
+   "status": "LOCKED",
+   "periodStart": "2026-08-31T00:00:00.000Z",
+   "periodEnd": "2026-09-06T00:00:00.000Z"
+  },
+  "hasData": true,
+  "hours": {
+   "totalGrossHours": 572.48,
+   "totalOtHours": 1.72,
+   "totalDayOtCount": 4,
+   "weekOtDriverCount": 3,
+   "topOtDrivers": [
+    {
+     "employeeName": "Emma Schultz",
+     "fileNumber": "EMP-008",
+     "position": "DA",
+     "otHours": 0.82
+    },
+    {
+     "employeeName": "Liam O'connor",
+     "fileNumber": "EMP-005",
+     "position": "DA",
+     "otHours": 0.68
+    },
+    {
+     "employeeName": "Hannah Kim",
+     "fileNumber": "EMP-006",
+     "position": "DA",
+     "otHours": 0.22
+    }
+   ],
+   "driverCount": 13
+  },
+  "cap": {
+   "dayCapViolations": 4,
+   "totalCapViolations": 4,
+   "complianceScore": 93.85,
+   "topCapDrivers": [
+    {
+     "employeeName": "Emma Schultz",
+     "fileNumber": "EMP-008",
+     "position": "DA",
+     "capCount": 2
+    },
+    {
+     "employeeName": "Liam O'connor",
+     "fileNumber": "EMP-005",
+     "position": "DA",
+     "capCount": 1
+    },
+    {
+     "employeeName": "Hannah Kim",
+     "fileNumber": "EMP-006",
+     "position": "DA",
+     "capCount": 1
+    }
+   ]
+  },
+  "payroll": {
+   "grossPay": 10606.87,
+   "employerTax": 986.44,
+   "workerComp": 600.35,
+   "employeeInsurance": 585,
+   "employee401k": 132.59,
+   "totalLiability": 12911.25
+  },
+  "revenue": {
+   "routeRevenue": 37935,
+   "routeJobId": "RR-2026-W36",
+   "isActual": true
+  },
+  "profitLoss": 25023.75
+ }
+}

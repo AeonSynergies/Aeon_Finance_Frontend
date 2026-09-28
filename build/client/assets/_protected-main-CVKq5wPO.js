@@ -1,0 +1,1 @@
+import{a as e,t}from"./components-urye_E6P.js";import{t as n}from"./jsx-runtime-CPNstcaJ.js";import"./_protected-client-loader-DRhzjP6T.js";var r=n(),i=e(function(){return(0,r.jsx)(t,{})});export{i as default};

@@ -1,0 +1,256 @@
+{
+ "payroll": {
+  "hasData": true,
+  "kpis": {
+   "totalGrossHours": 1985.4,
+   "totalOtHours": 3.45,
+   "totalPayrollCost": 36762.24,
+   "capViolations": 8,
+   "activeJobs": 4
+  },
+  "trend": {
+   "otHours": {
+    "pct": -100,
+    "direction": "down"
+   },
+   "payrollCost": {
+    "pct": -56.37,
+    "direction": "down"
+   },
+   "capScore": {
+    "pct": 1.56,
+    "direction": "up"
+   }
+  },
+  "weeklyTrend": [
+   {
+    "week": "2026-W36",
+    "otHours": 1.72,
+    "payrollCost": 10606.87,
+    "capScore": 93.85
+   },
+   {
+    "week": "2026-W37",
+    "otHours": 1.69,
+    "payrollCost": 10778.9,
+    "capScore": 95.38
+   },
+   {
+    "week": "2026-W38",
+    "otHours": 0.04,
+    "payrollCost": 10705.54,
+    "capScore": 98.46
+   },
+   {
+    "week": "2026-W39",
+    "otHours": 0,
+    "payrollCost": 4670.93,
+    "capScore": 100
+   }
+  ],
+  "byWave": [
+   {
+    "wave": "CYCLE_1",
+    "otHours": 1.12
+   },
+   {
+    "wave": "CYCLE_2",
+    "otHours": 1.65
+   },
+   {
+    "wave": "NURSERY",
+    "otHours": 0.68
+   }
+  ]
+ },
+ "routes": {
+  "hasData": true,
+  "kpis": {
+   "completedRoutes": 9,
+   "expectedRevenue": 78780,
+   "invoicedRevenue": 37841,
+   "disputeValue": 1013
+  },
+  "trend": {
+   "revenue": {
+    "pct": 7.67,
+    "direction": "up"
+   },
+   "completionRate": {
+    "pct": 24.99,
+    "direction": "up"
+   }
+  },
+  "weeklyTrend": [
+   {
+    "week": "2026-W36",
+    "completionRate": 66.67,
+    "revenue": 37935
+   },
+   {
+    "week": "2026-W37",
+    "completionRate": 83.33,
+    "revenue": 40845
+   }
+  ]
+ },
+ "fleet": {
+  "hasData": true,
+  "kpis": {
+   "eligibleVehicles": 11,
+   "totalVehicles": 12,
+   "fleetRevenue": 2928,
+   "totalRentalCost": 4605,
+   "totalInsuranceCost": 502.12,
+   "utilisationPct": 91.67
+  },
+  "trend": {
+   "utilisationPct": {
+    "pct": 0,
+    "direction": "flat"
+   },
+   "revenue": {
+    "pct": 0,
+    "direction": "flat"
+   }
+  },
+  "weeklyTrend": [
+   {
+    "week": "2026-W37",
+    "utilisationPct": 91.67,
+    "revenue": 2928
+   }
+  ]
+ },
+ "finance": {
+  "hasData": true,
+  "kpis": {
+   "totalRevenue": 40769,
+   "totalExpenses": 29472.89,
+   "netProfit": 11296.11,
+   "profitMargin": 27.71
+  },
+  "trend": {
+   "revenue": {
+    "pct": 100,
+    "direction": "up"
+   },
+   "expense": {
+    "pct": 27.21,
+    "direction": "up"
+   },
+   "netProfit": {
+    "pct": 287.08,
+    "direction": "up"
+   }
+  },
+  "monthlyTrend": [
+   {
+    "month": "2026-08",
+    "revenue": 0,
+    "expense": 12971.87,
+    "netProfit": -12971.87
+   },
+   {
+    "month": "2026-09",
+    "revenue": 40769,
+    "expense": 16501.02,
+    "netProfit": 24267.98
+   }
+  ],
+  "expenseDistribution": [
+   {
+    "name": "Payroll",
+    "value": 21385.77
+   },
+   {
+    "name": "Rental",
+    "value": 4605
+   },
+   {
+    "name": "Insurance",
+    "value": 502.12
+   },
+   {
+    "name": "Repair & Maintenance",
+    "value": 2980
+   }
+  ]
+ },
+ "payrollExceptions": {
+  "topDrivers": [
+   {
+    "name": "James Carter",
+    "count": 4,
+    "types": [
+     "Late logout: payroll logout 25m later than app sign-out (beyond 15m buffer)",
+     "Late login: app sign-in 25m later than payroll (beyond 15m buffer)"
+    ]
+   },
+   {
+    "name": "Priya Nair",
+    "count": 4,
+    "types": [
+     "Late login: app sign-in 25m later than payroll (beyond 15m buffer)",
+     "Daily hours 10.57 exceed 10h"
+    ]
+   },
+   {
+    "name": "Carlos Mendoza",
+    "count": 3,
+    "types": [
+     "Late login: app sign-in 25m later than payroll (beyond 15m buffer)",
+     "Late logout: payroll logout 25m later than app sign-out (beyond 15m buffer)"
+    ]
+   },
+   {
+    "name": "Hannah Kim",
+    "count": 3,
+    "types": [
+     "Late logout: payroll logout 25m later than app sign-out (beyond 15m buffer)",
+     "Daily hours 10.22 exceed 10h"
+    ]
+   },
+   {
+    "name": "Aisha Brown",
+    "count": 3,
+    "types": [
+     "No matching ADP payroll record",
+     "Daily hours 10.60 exceed 10h"
+    ]
+   },
+   {
+    "name": "Emma Schultz",
+    "count": 2,
+    "types": [
+     "Daily hours 10.63 exceed 10h",
+     "Daily hours 10.19 exceed 10h"
+    ]
+   },
+   {
+    "name": "Liam O'connor",
+    "count": 1,
+    "types": [
+     "Daily hours 10.68 exceed 10h"
+    ]
+   },
+   {
+    "name": "Marcus Johnson",
+    "count": 1,
+    "types": [
+     "Daily hours 10.52 exceed 10h"
+    ]
+   },
+   {
+    "name": "Diego Rivera",
+    "count": 1,
+    "types": [
+     "Late logout: payroll logout 25m later than app sign-out (beyond 15m buffer)"
+    ]
+   }
+  ],
+  "currentPeriodCount": 3,
+  "currentJobId": "job_007u",
+  "currentPeriod": "Sep 21 – Sep 27"
+ }
+}
