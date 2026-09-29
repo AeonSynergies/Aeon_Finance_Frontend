@@ -2,6 +2,9 @@
   "name": "aeon-fin",
   "private": true,
   "type": "module",
+  "engines": {
+    "node": ">=25.0.0"
+  },
   "scripts": {
     "dev": "react-router dev",
     "build": "react-router build",
